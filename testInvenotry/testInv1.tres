@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="Inventory" format=3 uid="uid://yxy0midkjaa2"]
+
+[ext_resource type="Script" uid="uid://ciav7ws7y0iar" path="res://slots.gd" id="1_y61t3"]
+[ext_resource type="Script" uid="uid://ky4wagdvvuhq" path="res://inventory.gd" id="1_yi4f2"]
+[ext_resource type="Script" uid="uid://d1cmrir5qyg5k" path="res://item.gd" id="2_xtcve"]
+[ext_resource type="Resource" uid="uid://b8pncxyffgpsu" path="res://data/itemsResources/diamond_pickaxe.tres" id="3_dfl0u"]
+[ext_resource type="Resource" uid="uid://b67h42rnqexft" path="res://data/itemsResources/go.tres" id="4_xtcve"]
+
+[sub_resource type="Resource" id="Resource_5v8q7"]
+script = ExtResource("1_y61t3")
+slots = Array[ExtResource("2_xtcve")]([null, null, ExtResource("3_dfl0u"), null, null, null, null, ExtResource("4_xtcve"), null, null])
+metadata/_custom_type_script = "uid://ciav7ws7y0iar"
+
+[resource]
+script = ExtResource("1_yi4f2")
+inventory = SubResource("Resource_5v8q7")
+metadata/_custom_type_script = "uid://ky4wagdvvuhq"

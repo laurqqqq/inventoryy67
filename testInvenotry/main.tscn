@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://mbnpmft4irw5"]
+
+[ext_resource type="Script" uid="uid://y2rpjkxbyesa" path="res://main.gd" id="1_qilrq"]
+[ext_resource type="PackedScene" uid="uid://bniyh3vm4idtf" path="res://inventory_ui.tscn" id="2_nt81u"]
+
+[node name="main" type="Node2D" unique_id=746082483]
+script = ExtResource("1_qilrq")
+
+[node name="InventoryUI" parent="." unique_id=651489193 instance=ExtResource("2_nt81u")]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 326.0
+offset_top = 174.0
+offset_right = 826.0
+offset_bottom = 474.0
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=945560524]
+position = Vector2(579, 328)

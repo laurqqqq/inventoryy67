@@ -1,3 +1,12 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1790251456
+::res://::1790255379
 icon.svg::CompressedTexture2D::892066179417807407::1790251449::1790251461::1::::<><><>0<>0<>330235951a7fb40f9e368dcce9e38504<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+inventory_ui.tscn::PackedScene::3316861885082723815::1790254766::0::1::::<><><>0<>0<><>::
+item.gd::GDScript::8989060151419717086::1790255207::0::1::::Item<>Resource<><>0<>0<><>::
+README.md::TextFile::-1::1790251476::0::1::::<><><>0<>0<><>::
+slots.gd::GDScript::5335685503550693753::1790255043::0::1::::Slots<>Resource<><>0<>0<><>::
+slot_ui.tscn::PackedScene::6485900149601638124::1790255211::0::1::::<><><>0<>0<><>::uid://myeg110qff7t::::res://icon.svg
+::res://data/::1790255379
+::res://data/itemsIcons/::1790255379
+dmdPickaxe.jpeg::CompressedTexture2D::1151108352749669661::1790255285::1790255379::1::::<><><>0<>0<>52472352993bc6f44009348b9d56d3cc<>res://.godot/imported/dmdPickaxe.jpeg-baf0a8a31331367e3ff98d68c435b79a.ctex::
+::res://data/itemsResources/::1790255103

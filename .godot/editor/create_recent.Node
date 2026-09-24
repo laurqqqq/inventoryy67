@@ -1,4 +1,6 @@
-GridContainer
 Label
 TextureRect
+CanvasLayer
+Camera2D
+GridContainer
 PanelContainer

@@ -1,2 +1,16 @@
 res://slot_ui.tscn
 res://inventory_ui.tscn
+res://item.gd
+res://slot.gd
+res://data/items/new_resofeasfaurce.tres
+res://slots.gd
+res://data/itemsResources/diamond_pickaxe.tres
+res://inventory.gd
+res://testInvenotry/testInv1.tres
+res://main.gd
+res://testInvenotry/main.tscn
+res://slot_ui.gd
+res://inventory_ui.gd
+res://items_databse.gd
+res://data/itemsResources/go.tres
+res://data/itemsResources/held_item_ui.tscn

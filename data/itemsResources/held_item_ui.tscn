@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://b41yj07hrbxry"]
+
+[node name="HeldItemUI" type="CanvasLayer" unique_id=75313016]
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=1253683663]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="." unique_id=1767255963]
+offset_right = 40.0
+offset_bottom = 23.0

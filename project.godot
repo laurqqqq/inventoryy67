@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="invSys"
+run/main_scene="uid://mbnpmft4irw5"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
+
+[autoload]
+
+ItemsDatabse="*uid://by3ikhijcx67n"
 
 [display]
 

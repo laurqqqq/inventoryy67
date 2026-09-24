@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="Item" format=3 uid="uid://b8pncxyffgpsu"]
+
+[ext_resource type="Script" uid="uid://d1cmrir5qyg5k" path="res://item.gd" id="1_mb0ik"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_mb0ik"]
+load_path = "res://.godot/imported/dmdPickaxe.jpeg-baf0a8a31331367e3ff98d68c435b79a.ctex"
+
+[resource]
+script = ExtResource("1_mb0ik")
+id = &"diamond_pickaxe"
+name = "dmd pick"
+description = "mines stuff"
+icon = SubResource("CompressedTexture2D_mb0ik")
+max_stack_size = 50
+metadata/_custom_type_script = "uid://d1cmrir5qyg5k"

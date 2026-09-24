@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="Item" format=3 uid="uid://b67h42rnqexft"]
+
+[ext_resource type="Texture2D" uid="uid://myeg110qff7t" path="res://icon.svg" id="1_am5fd"]
+[ext_resource type="Script" uid="uid://d1cmrir5qyg5k" path="res://item.gd" id="1_uhjr5"]
+
+[resource]
+script = ExtResource("1_uhjr5")
+id = &"go"
+name = "go"
+description = "go gole"
+icon = ExtResource("1_am5fd")
+max_stack_size = 10
+metadata/_custom_type_script = "uid://d1cmrir5qyg5k"
