@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://bniyh3vm4idtf"]
+
+[node name="InventoryUI" type="Control" unique_id=651489193]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="GridContainer" type="GridContainer" parent="." unique_id=2069811695]
+custom_minimum_size = Vector2(500, 300)
+layout_mode = 1
+offset_right = 500.0
+offset_bottom = 300.0
+columns = 9
